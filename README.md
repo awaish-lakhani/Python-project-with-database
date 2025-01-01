@@ -13,12 +13,13 @@ The main script of the project. It brings together the functions and modules fro
 ----  Installing MySQL Connector  ----
 
 Run this command on your Command line to install the MySQL connector:
-              (" pip install mysql-connector-python ")
+            
+(" pip install mysql-connector-python ")
 
 --  Installing MySQL 8.0 Command Line Client --
-              (" install this from chrome or any other browser ")
+(" install this from chrome or any other browser ")
 
--------------------------------------------- MySQL Command Line Integration Example  ---------------------------------------------
+-- MySQL Command Line Integration Example  --
 Now I give all MySQL queries
 1. CREATE DATABASE contact_management;
 2. USE contact_management;
@@ -35,4 +36,4 @@ Now I give all MySQL queries
 7. GRANT SELECT, INSERT, UPDATE, DELETE ON contact_management.* TO 'username'@'localhost'; (#And here's where the username you entered is to be kept)
 8. FLUSH PRIVILEGES;
 9. EXIT;
---------------------------" Now, if there is any problem, you can take it from Google, chatGPT, OR any other Source "------------------------------
+--" Now, if there is any problem, you can take it from Google, chatGPT, OR any other Source --
