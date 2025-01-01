@@ -1,19 +1,21 @@
 " This is the file that you can see to solve your problems "
+
 --------  Project Name  --------
 
 This project is designed to handle user authentication and validation tasks. Below is an overview of the key Python files in the project.
 
--------------------------------------------------------  Files  ------------------------------------------------------
+--------  Files  --------
 
 main.py
+
 The main script of the project. It brings together the functions and modules from the other files to implement the core functionality of the project. Running this script starts the main workflow of the application.
 
-------------------------------------------------  Installing MySQL Connector  ---------------------------------------------------
+----  Installing MySQL Connector  ----
 
 Run this command on your Command line to install the MySQL connector:
               (" pip install mysql-connector-python ")
 
------------------------------------------  Installing MySQL 8.0 Command Line Client ----------------------------------------------
+--  Installing MySQL 8.0 Command Line Client --
               (" install this from chrome or any other browser ")
 
 -------------------------------------------- MySQL Command Line Integration Example  ---------------------------------------------
