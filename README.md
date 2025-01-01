@@ -33,6 +33,4 @@ Now I give all MySQL queries
 7. GRANT SELECT, INSERT, UPDATE, DELETE ON contact_management.* TO 'username'@'localhost'; (#And here's where the username you entered is to be kept)
 8. FLUSH PRIVILEGES;
 9. EXIT;
-
-
-                           " Now, if there is any problem, you can take it from Google, chatGPT, OR any other Source "
+--------------------------" Now, if there is any problem, you can take it from Google, chatGPT, OR any other Source "------------------------------
