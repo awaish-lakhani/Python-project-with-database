@@ -1,5 +1,5 @@
 " This is the file that you can see to solve your problems "
----------------------------------------------------  Project Name  ---------------------------------------------------
+--------  Project Name  --------
 
 This project is designed to handle user authentication and validation tasks. Below is an overview of the key Python files in the project.
 
