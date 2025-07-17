@@ -1,31 +1,24 @@
-============================================= Project Name: ================================================
+Project Name:
 
 Contact Management System
-
 This is the file that you can refer to in order to solve any problems related to this project.
-
 This project is designed to handle user authentication and validation tasks using a graphical interface built with Tkinter and a backend database managed with MySQL.
 
-------------------------------------------------------------------------------------------------------------
 📦 Files Overview
-------------------------------------------------------------------------------------------------------------
 
 🔹 main.py  
 - The main script of the project.  
 - It brings together the functions and modules to implement the core functionality of the application.  
 - Running this script will start the contact management workflow (Add, Display, Delete, and Search contacts).
 
-------------------------------------------------------------------------------------------------------------
+
 🔧 Installing MySQL Connector
-------------------------------------------------------------------------------------------------------------
 
 To install the Python MySQL connector, open your command line interface (CMD) and run:
 
     pip install mysql-connector-python
 
-------------------------------------------------------------------------------------------------------------
 💾 Installing MySQL 8.0 Command Line Client
-------------------------------------------------------------------------------------------------------------
 
 If you haven’t installed MySQL yet, download and install it from the official website:
 
@@ -33,9 +26,7 @@ If you haven’t installed MySQL yet, download and install it from the official 
 
 Or search for “MySQL 8.0 download” on Chrome or any browser and install it from a trusted source.
 
-------------------------------------------------------------------------------------------------------------
 🗃️ MySQL Command Line Integration (Database Setup)
-------------------------------------------------------------------------------------------------------------
 
 Here are all the SQL commands you need to run in the MySQL command line to set up your database:
 
@@ -70,9 +61,7 @@ Here are all the SQL commands you need to run in the MySQL command line to set u
     -- Step 8: Exit the MySQL CLI
     EXIT;
 
-------------------------------------------------------------------------------------------------------------
 📊 Helpful Additional Queries for Manual Use
-------------------------------------------------------------------------------------------------------------
 
 You can use the following queries in MySQL to manage and inspect your data manually:
 
@@ -95,9 +84,7 @@ You can use the following queries in MySQL to manage and inspect your data manua
     -- Delete all contacts (⚠️ use with caution)
     DELETE FROM contact_register;
 
-------------------------------------------------------------------------------------------------------------
 💡 Troubleshooting & Help
-------------------------------------------------------------------------------------------------------------
 
 If you run into any issues:
 
@@ -105,17 +92,13 @@ If you run into any issues:
     ✅ Ask ChatGPT  
     ✅ Watch tutorials on YouTube  
 
-------------------------------------------------------------------------------------------------------------
 📌 Reminder
-------------------------------------------------------------------------------------------------------------
 
 Always ensure that:
 - Your MySQL service is running.
 - The database credentials in your Python code match the ones set in MySQL.
 - You have installed required libraries using pip.
 
-------------------------------------------------------------------------------------------------------------
 ✅ All Set!
-------------------------------------------------------------------------------------------------------------
 
 You are now ready to use the Contact Management System. Happy coding! 🎉
