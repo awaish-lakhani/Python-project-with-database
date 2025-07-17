@@ -7,8 +7,8 @@ import mysql.connector
 def connect_to_db():
     return mysql.connector.connect(
         host='localhost',
-        user='lakhani',
-        password='1234',
+        user='Use your user name',
+        password='Use your user password',
         database='contact_management'
     )
 
